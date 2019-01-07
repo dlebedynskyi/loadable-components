@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.2.2](https://github.com/smooth-code/loadable-components/compare/v5.2.1...v5.2.2) (2018-12-12)
+
+
+### Bug Fixes
+
+* ensure that component is mounted before calling `setState` ([#184](https://github.com/smooth-code/loadable-components/issues/184)) ([fe0f47f](https://github.com/smooth-code/loadable-components/commit/fe0f47f)), closes [#180](https://github.com/smooth-code/loadable-components/issues/180)
+
+
+
+
+
+## [5.2.1](https://github.com/smooth-code/loadable-components/compare/v5.2.0...v5.2.1) (2018-11-27)
+
+
+### Bug Fixes
+
+* upgrade hoist-non-react-statics@3.2.0 ([122b1ce](https://github.com/smooth-code/loadable-components/commit/122b1ce))
+
+
+
+
+
 ## [5.1.2](https://github.com/smooth-code/loadable-components/compare/v5.1.1...v5.1.2) (2018-11-13)
 
 
